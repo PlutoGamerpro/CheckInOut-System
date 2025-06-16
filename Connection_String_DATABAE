@@ -1,0 +1,23 @@
+
+// HOW TO ACCESS SERVER
+// https://vcenter.praktikcenter.lan/
+// 1 pick LAUCH VPHERE CLIENT (HTML5) (Login med Praktik computter brugernavn og kode)
+// Virtuelle mahcine code Hund10!
+
+
+/*
+var connString = "Host=10.0.1.9;Username=postgres;Password=Hund10!;Database=DB_CheckIn_CheckOut";
+
+            try
+            {
+                using var conn = new NpgsqlConnection(connString);
+                conn.Open();
+                Console.WriteLine("Connection successful!");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Connection failed: {ex.Message}");
+            }
+            */
+
+
